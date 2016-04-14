@@ -1,2 +1,2 @@
 babcde
-commit B
+commit
